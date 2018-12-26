@@ -20,7 +20,7 @@ Add to your webpack config's `module.loaders`:
 
 ### Javascript
 
-`template.hmal`
+`template.haml`
 
 ```haml
 %article

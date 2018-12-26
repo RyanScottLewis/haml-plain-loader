@@ -30,7 +30,7 @@ Add to your webpack config's `module.loaders`:
 `index.js`
 
 ```js
-console.log require("template.haml")
+console.log(require("template.haml"))
 ```
 
 ### VueJS

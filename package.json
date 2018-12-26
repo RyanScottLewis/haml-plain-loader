@@ -1,0 +1,23 @@
+{
+  "name": "haml-plain-loader",
+  "version": "1.0.0",
+  "description": "Require HAML templates as plain text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanScottLewis/haml-plain-loader.git"
+  },
+  "author": {
+    "name": "Ryan Scott Lewis"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanScottLewis/haml-plain-loader/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/haml-plain-loader",
+  "dependencies": {
+    "haml": "^0.4.3",
+    "loader-utils": "^1.1.0"
+  }
+}
+
